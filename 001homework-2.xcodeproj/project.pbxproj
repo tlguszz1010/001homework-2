@@ -15,6 +15,7 @@
 		4E48BE772872DE9F0067012B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E48BE752872DE9F0067012B /* LaunchScreen.storyboard */; };
 		4E48BE7F2873DA370067012B /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E48BE7E2873DA370067012B /* FirstViewController.swift */; };
 		4E48BE812873DAAF0067012B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E48BE802873DAAF0067012B /* SecondViewController.swift */; };
+		4EBE25EC2877B5F500DE12C8 /* GithubTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBE25EB2877B5F500DE12C8 /* GithubTestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4E48BE782872DE9F0067012B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E48BE7E2873DA370067012B /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		4E48BE802873DAAF0067012B /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		4EBE25EB2877B5F500DE12C8 /* GithubTestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubTestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				4E48BE702872DE9E0067012B /* Main.storyboard */,
 				4E48BE7E2873DA370067012B /* FirstViewController.swift */,
 				4E48BE802873DAAF0067012B /* SecondViewController.swift */,
+				4EBE25EB2877B5F500DE12C8 /* GithubTestViewController.swift */,
 				4E48BE732872DE9F0067012B /* Assets.xcassets */,
 				4E48BE752872DE9F0067012B /* LaunchScreen.storyboard */,
 				4E48BE782872DE9F0067012B /* Info.plist */,
@@ -149,6 +152,7 @@
 				4E48BE6D2872DE9E0067012B /* SceneDelegate.swift in Sources */,
 				4E48BE812873DAAF0067012B /* SecondViewController.swift in Sources */,
 				4E48BE7F2873DA370067012B /* FirstViewController.swift in Sources */,
+				4EBE25EC2877B5F500DE12C8 /* GithubTestViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
