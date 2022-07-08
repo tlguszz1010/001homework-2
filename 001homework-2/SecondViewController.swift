@@ -26,7 +26,13 @@ class SecondViewController: UIViewController {
         movieTitleLabel.backgroundColor = UIColor.yellow
         movieTitleLabel.textColor = UIColor.red
         movieTitleLabel.font = UIFont.boldSystemFont(ofSize: 30)
-        
+        print(1)
+        print(2)
+        print(3)
+        print(4)
+        print(5)
+        print(6)
+        print(7)
         // Do any additional setup after loading the view.
     }
     
